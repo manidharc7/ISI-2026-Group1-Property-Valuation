@@ -76,15 +76,6 @@ Expected results:
 
 ---
 
-## Key rules
-
-- **One notebook, one repo** — never work on a separate copy
-- **Commit to GitHub every session** — don't let work sit only in Colab
-- **Split before you preprocess** — test set must stay unseen (random_state=42)
-- **The model predicts, the LLM explains** — never claim the AI invents a price
-
----
-
 ## Report
 
 Due: **Friday 31 July 2026**
